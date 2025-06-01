@@ -1,0 +1,10 @@
+info
+add
+maga_name
+-52
+-69
+999
+null
+opisanie
+rock
+1

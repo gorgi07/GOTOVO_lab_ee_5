@@ -1,0 +1,5 @@
+clear
+execute script.txt
+add rr 2 2 2 2 rock rock mk
+add rr 2 2 2 2 rock rock mk
+add rr 2 2 2 2 rock rock mk

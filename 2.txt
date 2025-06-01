@@ -1,0 +1,5 @@
+show
+execute_script 2.txt
+execute_script 2.txt
+execute_script 2.txt
+execute_script 2.txt
